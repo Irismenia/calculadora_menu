@@ -54,3 +54,4 @@ if (opcion < 7 and bandera == False):
      print("Resultado = ", z)
 
 # FIN
+xd
